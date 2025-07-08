@@ -47,11 +47,5 @@ if(teachers.length > 0){
 else{
   result = true;
 }
-if(teachers.length){
-  console.log(true)
-}
-else{
-  console.log(false);
-}
 const isTeachersEmpty = result;
 console.log(isTeachersEmpty);
